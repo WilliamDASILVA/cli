@@ -1,0 +1,25 @@
+{
+  "name": "williamdasilva",
+  "version": "1.0.0",
+  "description": "Easter egg CLI command with my curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamDASILVA/cli.git"
+  },
+  "keywords": [
+    "william da silva"
+  ],
+  "author": "William DA SILVA <william.da.silva@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamDASILVA/cli/issues"
+  },
+  "homepage": "https://github.com/WilliamDASILVA/cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
